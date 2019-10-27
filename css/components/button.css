@@ -1,0 +1,9 @@
+.btn-black{
+	color: white;
+	background-color: purple;
+	border-radius: 5px;
+	padding:10px;
+}
+.btn-black:hover{
+	background-color: black;
+}

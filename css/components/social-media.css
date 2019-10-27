@@ -1,0 +1,15 @@
+.social-media li{
+	display: inline;
+	padding: 10px;
+}
+.social-media{
+	list-style: none;
+	padding-left: 0px;
+}
+.social-media i{
+	font-size: 50px;
+	color: purple;
+}
+.social-media i:hover{
+	color: rgb(210,210,210);
+}
